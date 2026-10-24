@@ -1,0 +1,5 @@
+opencv-contrib-python>=4.10,<5
+mediapipe==0.10.21
+numpy<2
+pillow
+pyvirtualcam
